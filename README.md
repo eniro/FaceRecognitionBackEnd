@@ -1,5 +1,9 @@
 project's url: https://face-recognition-brainapp.herokuapp.com/
 
+![screenshot1](https://github.com/eniro/FaceRecognitionApp/blob/master/facerec.JPG)
+
+![screenshot2](https://github.com/eniro/FaceRecognitionApp/blob/master/facerec1.JPG)
+
 This project was bootstrapped with Create React App. 
 It's a React app that detects faces in photos and counts user's entries (how many times a user has used a photo in the app).  
 Languages used for the front-end: React.JS, Javascript, HTML5, CSS3.
